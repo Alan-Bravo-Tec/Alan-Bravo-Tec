@@ -1,7 +1,16 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal&text=Hi,%20i%C2%B4m%20Alan%20Bravo&animation=fadeIn&section=header&textBg=false&reversal=true&fontAlign=50/>
-<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" alt="Coding GIF">
 </div>
+<div align="center">
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" />
+
+## I'm a Computer Engineer & Aspiring Data Analyst
+
+- 📊 I’m currently developing my skills in **data analysis, KPI monitoring, and data visualization** using Python, SQL, Power BI, and Excel.
+- 📚 Expanding my knowledge in **data analytics, business intelligence, and artificial intelligence** to support data-driven decision-making.
+- 🚀 Future Goals: Continue mastering **data visualization, analytics, and AI-powered solutions** while building projects that transform data into actionable insights.
+</div>
+
 
 <div align="center">
   <img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true=fadeIn&section=footer&textBg=false&reversal=true/>
