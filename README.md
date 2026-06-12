@@ -1,7 +1,12 @@
-## Hi there 👋
-<div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" alt="Coding GIF">
-  </div>
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal&text=Hi,%20i%C2%B4m%20Alan%20Bravo&animation=fadeIn&section=header&textBg=false&reversal=true&fontAlign=50/>
+<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="200" alt="Coding GIF">
+</div>
+
+<div align="center">
+  <img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true=fadeIn&section=footer&textBg=false&reversal=true/>
+</div>
+
 <div align="left">
     <p align="center">  
       <h3 align="center">
