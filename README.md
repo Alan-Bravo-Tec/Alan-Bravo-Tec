@@ -4,13 +4,21 @@
 <div align="center">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" />
 
-## I'm a Computer Engineer & Aspiring Data Analyst
+## Computer Engineer & Aspiring Data Analyst
 
 - 📊 I’m currently developing my skills in **data analysis, KPI monitoring, and data visualization** using Python, SQL, Power BI, and Excel.
 - 📚 Expanding my knowledge in **data analytics, business intelligence, and artificial intelligence** to support data-driven decision-making.
 - 🚀 Future Goals: Continue mastering **data visualization, analytics, and AI-powered solutions** while building projects that transform data into actionable insights.
 </div>
+<br clear="left"/>
 
+<!-- Bloque de LinkedIn centrado -->
+<p align="center">
+<code><a href="www.linkedin.com/in/alan-daniel-bravo" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
+
+
+  </a>
+</p>
 
 <div align="center">
   <img width="100%" src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true=fadeIn&section=footer&textBg=false&reversal=true/>
