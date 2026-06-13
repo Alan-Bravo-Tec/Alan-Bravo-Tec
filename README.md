@@ -13,7 +13,7 @@
 <br clear="left"/>
 
 <p align="center">
-<code><a href="www.linkedin.com/in/alan-daniel-bravo" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
+<code><a href="https:\\www.linkedin.com/in/alan-daniel-bravo" target="_blank"><img height="45" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a></code> 
 
 
   </a>
